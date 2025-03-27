@@ -1,4 +1,4 @@
--- discord.gg/tboyroblox
+-- discord.gg/fpvPMH54je
 
 
 shared.LoaderTitle = "Đăng Ký Kênh Bé Pon Baby ";
